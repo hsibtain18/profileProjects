@@ -1,0 +1,3 @@
+[submodule "client-aws-server"]
+	path = client-aws-server
+	url = https://github.com/hsibtain18/client-aws-server
